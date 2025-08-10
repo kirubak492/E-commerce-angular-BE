@@ -3,13 +3,14 @@ const env = require('dotenv');
 const path = require('path');
 
 const app = express();
+const connectdb=require("./config/ConnectDatabase")
 
 // Load environment variables from config/config.env
 env.config({ path: path.join(__dirname, 'config', 'config.env') });
 
 const products=require('./routes/product')
 const orders=require('./routes/order')
-
+connectdb()
 app.use('/api/v1/',products);
 app.use('/api/v1/',orders);
 
