@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "price": "799",
+    "description": "Ergonomic wireless mouse with USB receiver.",
+    "ratings": "4.5",
+    "images": [
+      { "image": "mouse1.jpg" },
+      { "image": "mouse2.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "TechZone",
+    "stock": "150",
+    "numOfReviews": "230",
+    "createAt": "2025-08-01T10:00:00Z"
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "price": "1599",
+    "description": "Over-ear Bluetooth headphones with noise cancellation.",
+    "ratings": "4.7",
+    "images": [
+      { "image": "headphone1.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "SoundWave",
+    "stock": "90",
+    "numOfReviews": "310",
+    "createAt": "2025-08-02T15:00:00Z"
+  },
+  {
+    "name": "Cotton T-Shirt",
+    "price": "499",
+    "description": "100% cotton casual t-shirt.",
+    "ratings": "4.2",
+    "images": [
+      { "image": "tshirt1.jpg" }
+    ],
+    "category": "Clothing",
+    "seller": "StyleMart",
+    "stock": "250",
+    "numOfReviews": "120",
+    "createAt": "2025-08-03T09:00:00Z"
+  },
+  {
+    "name": "Gaming Keyboard",
+    "price": "2499",
+    "description": "RGB backlit mechanical gaming keyboard.",
+    "ratings": "4.8",
+    "images": [
+      { "image": "keyboard1.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "GameHub",
+    "stock": "60",
+    "numOfReviews": "450",
+    "createAt": "2025-08-04T18:00:00Z"
+  },
+  {
+    "name": "Smart Watch",
+    "price": "2999",
+    "description": "Smart watch with heart rate and fitness tracking.",
+    "ratings": "4.4",
+    "images": [
+      { "image": "watch1.jpg" }
+    ],
+    "category": "Wearables",
+    "seller": "TimeTech",
+    "stock": "80",
+    "numOfReviews": "180",
+    "createAt": "2025-08-05T12:30:00Z"
+  },
+  {
+    "name": "Yoga Mat",
+    "price": "799",
+    "description": "Non-slip yoga mat for all types of exercises.",
+    "ratings": "4.6",
+    "images": [
+      { "image": "yogamat1.jpg" }
+    ],
+    "category": "Fitness",
+    "seller": "FitLife",
+    "stock": "200",
+    "numOfReviews": "95",
+    "createAt": "2025-08-06T07:45:00Z"
+  },
+  {
+    "name": "Laptop Stand",
+    "price": "1299",
+    "description": "Adjustable aluminum laptop stand for desk use.",
+    "ratings": "4.5",
+    "images": [
+      { "image": "laptopstand1.jpg" }
+    ],
+    "category": "Office Supplies",
+    "seller": "WorkEase",
+    "stock": "130",
+    "numOfReviews": "210",
+    "createAt": "2025-08-07T14:10:00Z"
+  },
+  {
+    "name": "Running Shoes",
+    "price": "3499",
+    "description": "Lightweight running shoes for men.",
+    "ratings": "4.3",
+    "images": [
+      { "image": "shoes1.jpg" }
+    ],
+    "category": "Footwear",
+    "seller": "SportStar",
+    "stock": "75",
+    "numOfReviews": "165",
+    "createAt": "2025-08-08T16:20:00Z"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "price": "999",
+    "description": "Adjustable LED desk lamp with touch controls.",
+    "ratings": "4.6",
+    "images": [
+      { "image": "lamp1.jpg" }
+    ],
+    "category": "Home & Living",
+    "seller": "BrightHome",
+    "stock": "180",
+    "numOfReviews": "140",
+    "createAt": "2025-08-09T11:15:00Z"
+  },
+  {
+    "name": "Portable Charger",
+    "price": "1499",
+    "description": "10,000mAh portable power bank with fast charging.",
+    "ratings": "4.7",
+    "images": [
+      { "image": "charger1.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "ChargePro",
+    "stock": "120",
+    "numOfReviews": "320",
+    "createAt": "2025-08-10T20:50:00Z"
+  }
+]
