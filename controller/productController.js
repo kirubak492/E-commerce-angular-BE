@@ -30,6 +30,7 @@ exports.getSingleProduct=async(req,res,next)=>{
     res.json({
         success:true,
         message:'Get Sinlge product working!',
+        status:"fine",
         product
     })
 }
